@@ -76,3 +76,14 @@ const isEven = (number) => number % 2 == 0;
  * @param {*} number
  */
 const isOdd = (number) => number % 2 != 0;
+
+/**
+ * Pass a number and return true or false
+ * if the number is prime or not
+ * @param {*} num
+ */
+const isPrime = (num) => {
+  for (let i = 2, s = Math.sqrt(num); i <= s; i++)
+    if (num % i === 0) return false;
+  return num > 1;
+};

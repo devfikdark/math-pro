@@ -1,12 +1,21 @@
 ### Methods we can implement
 
-- Add two number
-- Add an array
-- Subtract one number from another
-- Multiply two number
-- Multiply an array
-- Divide two number
-- Find the number is Even
-- Find the number is Odd
-- Find the number is Prime
-- Find the number can be divisible by another number
+[x] Add two number
+
+[x] Add an array
+
+[x] Subtract one number from another
+
+[x] Multiply two number
+
+[x] Multiply an array
+
+[x] Divide two number
+
+[x] Find the number is Even
+
+[x] Find the number is Odd
+
+[x] Find the number is Prime
+
+[x] Find the number can be divisible by another number
