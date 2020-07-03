@@ -1,21 +1,37 @@
 ### Methods we can implement
 
-[x] Add two number
+- [x] Add two number
 
-[x] Add an array
+- [x] Add an array
 
-[x] Subtract one number from another
+- [x] Subtract one number from another
 
-[x] Multiply two number
+- [x] Multiply two number
 
-[x] Multiply an array
+- [x] Multiply an array
 
-[x] Divide two number
+- [x] Divide two number
 
-[x] Find the number is Even
+- [x] Find the number is Even
 
-[x] Find the number is Odd
+- [x] Find the number is Odd
 
-[x] Find the number is Prime
+- [x] Find the number is Prime
 
-[x] Find the number can be divisible by another number
+- [x] Find the number can be divisible by another number
+
+- :x: Calculate the average of arguments
+- :x: Calculate the division of arguments
+- :x: Calculate the factorial of a number
+- :x: Calculate the mod of collection index
+- :x: Calculate the remainder of division of arguments
+- :x: Clamp a number between two values
+- :x: Compute the greatest common divisor between two numbers
+- :x: Convert a number to equivalent characters
+- :x: Convert a string to number
+- :x: Convert degrees to radians
+- :x: Get the arrays of digits from a number
+- :x: Round a number to a given number of digits
+- :x: Subtract arguments
+- :x: Truncate a number to a given number of decimal places without rounding
+- :x: check palindrom number
