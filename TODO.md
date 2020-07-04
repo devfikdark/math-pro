@@ -18,12 +18,12 @@
 - [x] Calculate the remainder of division of arguments
 - [x] Compute the greatest common divisor between two numbers
 - [x] Convert a number to equivalent characters
-
+- [x] Convert degrees to radians
+- [x] Convert radians to degrees
+- [x] Get the arrays of digits from a number
+- [x] Round a number to a given number of digits
 -----
 
-- [ ] Convert degrees to radians
-- [ ] Get the arrays of digits from a number
-- [ ] Round a number to a given number of digits
 - [ ] Subtract arguments
 - [ ] Truncate a number to a given number of decimal places without rounding
 - [ ] Check palindrome number
