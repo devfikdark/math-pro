@@ -22,8 +22,8 @@
 - [x] Convert radians to degrees
 - [x] Get the arrays of digits from a number
 - [x] Round a number to a given number of digits
------
+- [x] Subtract arguments
+- [x] Truncate a number to a given number of decimal places without rounding
+- [X] Check palindrome number
 
-- [ ] Subtract arguments
-- [ ] Truncate a number to a given number of decimal places without rounding
-- [ ] Check palindrome number
+-----
