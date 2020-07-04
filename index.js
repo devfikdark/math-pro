@@ -87,3 +87,28 @@ const isPrime = (num) => {
     if (num % i === 0) return false;
   return num > 1;
 };
+
+/**
+ * Pass numbers as argument and return average of the numbers
+ * @param  {...any} numbers
+ */
+const avgOfArgs = (...numbers) => {
+  let sum = numbers.reduce((a, b) => a + b);
+  return parseFloat(sum / numbers.length);
+};
+
+/**
+ * Pass a number and calculate the factorial of the number
+ * @param {*} number
+ */
+const getFactorial = (number) => {
+  return number != 1 ? number * getFactorial(number - 1) : 1;
+};
+
+/**
+ * Given a string and convert it to a number
+ * @param {*} str
+ */
+const stringToNumber = (str) => parseFloat(str);
+
+console.log(stringToNumber("25"));
