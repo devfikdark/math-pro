@@ -13,18 +13,17 @@
 - [x] Calculate the average of arguments
 - [x] Calculate the factorial of a number
 - [x] Convert a string to number
+- [x] Calculate the division of arguments
+- [x] Calculate the mod of collection index
+- [x] Calculate the remainder of division of arguments
+- [x] Compute the greatest common divisor between two numbers
+- [x] Convert a number to equivalent characters
+- [x] Convert degrees to radians
+- [x] Convert radians to degrees
+- [x] Get the arrays of digits from a number
+- [x] Round a number to a given number of digits
+- [x] Subtract arguments
+- [x] Truncate a number to a given number of decimal places without rounding
+- [X] Check palindrome number
 
 -----
-
-- [ ] Calculate the division of arguments
-- [ ] Calculate the mod of collection index
-- [ ] Calculate the remainder of division of arguments
-- [ ] Clamp a number between two values
-- [ ] Compute the greatest common divisor between two numbers
-- [ ] Convert a number to equivalent characters
-- [ ] Convert degrees to radians
-- [ ] Get the arrays of digits from a number
-- [ ] Round a number to a given number of digits
-- [ ] Subtract arguments
-- [ ] Truncate a number to a given number of decimal places without rounding
-- [ ] Check palindrome number
