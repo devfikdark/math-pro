@@ -1,20 +1,23 @@
 {
-  "name": "made-for-math",
+  "name": "mathematica",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pro-js/made-for-math.git"
+    "url": "git+https://github.com/pro-js/mathematica.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pro-js/made-for-math/issues"
+    "url": "https://github.com/pro-js/mathematica/issues"
   },
-  "homepage": "https://github.com/pro-js/made-for-math#readme"
+  "homepage": "https://github.com/pro-js/mathematica#readme"
 }
