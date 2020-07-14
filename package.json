@@ -1,7 +1,7 @@
 {
-  "name": "mathematica",
+  "name": "math-pro",
   "version": "1.0.0",
-  "description": "",
+  "description": "Math pro is an extensive math library to do basic math calculations, sort and search functions.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pro-js/mathematica.git"
+    "url": "git+https://github.com/pro-js/math-pro.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pro-js/mathematica/issues"
+    "url": "https://github.com/pro-js/math-pro/issues"
   },
-  "homepage": "https://github.com/pro-js/mathematica#readme"
+  "homepage": "https://github.com/pro-js/math-pro#readme"
 }
