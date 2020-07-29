@@ -14,8 +14,8 @@
     "url": "git+https://github.com/pro-js/math-pro.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "@pro-js",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pro-js/math-pro/issues"
   },

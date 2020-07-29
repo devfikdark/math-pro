@@ -2,12 +2,15 @@
 
 ![img](img/Group%204.png)
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/pro-js/math-pro?color=green&label=npm%20release)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pro-js/math-pro?color=yellow)
-![Node.js Package](https://github.com/pro-js/math-pro/workflows/Node.js%20Package/badge.svg)
-![GitHub](https://img.shields.io/github/license/pro-js/math-pro)
+![npm](https://badgen.net/npm/v/math-pro)
+![install size](https://badgen.net/packagephobia/install/math-pro)
+![status](https://badgen.net/github/status/pro-js/math-pro)
+![stars](https://badgen.net/github/stars/pro-js/math-pro)
+![downloads](https://badgen.net/npm/dt/math-pro)
+![last commit](https://badgen.net/github/last-commit/pro-js/math-pro)
 
 </div>
+
 
 ## Introduction
 
@@ -25,7 +28,13 @@ To use this package you need to install it from [npm](https://www.npmjs.com/pack
 
 `npm i math-pro`
 
+
+After installation you need to import the package in your `.js` file.
+
+#### import as ES5 format
+
 After installation you need to import the package to use.
+
 
 ```js
 const mt = require("math-pro");
@@ -35,9 +44,21 @@ console.log(mt.addition(2, 4, 5, 6));
 // 17
 ```
 
+#### import as ES6 format 
+
+```js
+import mt from 'math-pro'
+
+console.log(mt.addition(2, 4, 5, 6));
+
+// 17
+```
+_**N.B**: You may encounter an issue when importing as ES6 format. To fix the issue in your **package.json** file add `"type": "module"`_
 ## Available functions
 
 Below are the available functions that we have in our library.
+
+`:x: means you can't pass variable in that format`
 
 ### Basic functions
 
@@ -48,7 +69,7 @@ Below are the available functions that we have in our library.
 | **multiplication()** | multiplication(2,3,4) // 24 | multiplication([2,3,4]) // 24 |
 |    **division()**    |  division(8,2,3) // 1.3333  |  division([2,3,4]) // 1.3333  |
 |    **average()**     |     average(2,3,4) // 3     |     average([2,3,4]) // 3     |
-|  **getReaminder()**  |   getRemainder(5, 2) // 1   |              :x:              |
+|  **getRemainder()**  |   getRemainder(5, 2) // 1   |              :x:              |
 |   **getMinimum()**   |   getMinimum(2,3,4) // 2    |   getMinimum([2,3,4]) // 2    |
 |   **getMaximum()**   |   getMaximum(2,3,4) // 4    |   getMaximum([2,3,4]) // 4    |
 
