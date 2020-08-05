@@ -4,7 +4,7 @@
 
 ![npm](https://badgen.net/npm/v/math-pro)
 ![install size](https://badgen.net/packagephobia/install/math-pro)
-![status](https://badgen.net/travis/pro-js/math-pro)
+![Travis (.org)](https://img.shields.io/travis/pro-js/math-pro)
 ![stars](https://badgen.net/github/stars/pro-js/math-pro)
 ![downloads](https://badgen.net/npm/dt/math-pro)
 ![last commit](https://badgen.net/github/last-commit/pro-js/math-pro)
