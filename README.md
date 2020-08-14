@@ -6,7 +6,7 @@
 ![install size](https://badgen.net/packagephobia/install/math-pro)
 ![stars](https://badgen.net/github/stars/pro-js/math-pro)
 ![npm](https://img.shields.io/npm/dw/math-pro)
-![downloads](https://badgen.net/npm/dt/math-pro)
+![total downloads](https://badgen.net/npm/dt/math-pro)
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fpro-js.github.io%2Fmath-pro-site%2F)
 
 </div>
@@ -68,8 +68,8 @@ _**N.B**: You may encounter an issue when importing as ES6 format. To fix the is
 ## Contributors
 <table>
 <tr>
-<td align="center"><a href="https://zubayerhimel.github.io"><img src="https://avatars0.githubusercontent.com/u/29758443?v=4" width="100px;" alt=""/><br /><sub><b>Zubayer Himel</b></sub></a><br /></td>
-<td align="center"><a href="https://morol1957.blogspot.com"><img src="https://avatars0.githubusercontent.com/jinnatul" width="100px;" alt=""/><br /><sub><b>Jinnatul Islam</b></sub></a><br /></td>
+<td align="center"><a href="https://zubayerhimel.github.io"><img src="https://avatars0.githubusercontent.com/u/29758443?v=4" width="100px;" alt=""/><br /><sub><b>Zubayer Himel</b></sub></a><br /><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fzubayerhimel0"></td>
+<td align="center"><a href="http://aboutmorol.herokuapp.com/"><img src="https://avatars0.githubusercontent.com/jinnatul" width="100px;" alt=""/><br /><sub><b>Jinnatul Islam</b></sub></a><br /><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmorolswediu"></td>
 </tr>
 </table>
 
