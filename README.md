@@ -68,8 +68,8 @@ _**N.B**: You may encounter an issue when importing as ES6 format. To fix the is
 ## Contributors
 <table>
 <tr>
-<td align="center"><a href="https://zubayerhimel.github.io"><img src="https://avatars0.githubusercontent.com/u/29758443?v=4" width="100px;" alt=""/><br /><sub><b>Zubayer Himel</b></sub></a><br /><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fzubayerhimel0"></td>
-<td align="center"><a href="http://aboutmorol.herokuapp.com/"><img src="https://avatars0.githubusercontent.com/jinnatul" width="100px;" alt=""/><br /><sub><b>Jinnatul Islam</b></sub></a><br /><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmorolswediu"></td>
+<td align="center"><a href="https://zubayerhimel.github.io"><img src="https://avatars0.githubusercontent.com/u/29758443?v=4" width="100px;" alt=""/><br /><sub><b>Zubayer Himel</b></sub></a><br /><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/zubayerhimel0?label=follow&style=social"></td>
+<td align="center"><a href="http://aboutmorol.herokuapp.com/"><img src="https://avatars0.githubusercontent.com/jinnatul" width="100px;" alt=""/><br /><sub><b>Jinnatul Islam</b></sub></a><br /><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/morolswediu?label=follow&style=social"></td>
 </tr>
 </table>
 
